@@ -5,6 +5,6 @@
 
 
 <H2>About Me </H2>
-<p>Welcome to my profile! I'm a student interning @ <B STYLE="COLOR:RED">B/S/H</B> (Bosch and Siemens Hausgeräte GmbH), an aspiring MERN stack developer. Currently learning on it. I’m passionate about learning new technologies. Thanks for visiting and I'd <img src="https://www.flaticon.com/svg/vstatic/svg/1216/1216649.svg?token=exp=1615830345~hmac=5d6e450053ac826cdd3490d78f938ad6" width=10px>   love to connect!
+<p>Welcome to my profile! I'm a student interning @ <B STYLE="COLOR:RED"> B/S/H </B> (Bosch and Siemens Hausgeräte GmbH), an aspiring MERN stack developer. Currently learning on it. I’m passionate about learning new technologies. Thanks for visiting and I'd <img src="https://www.flaticon.com/svg/vstatic/svg/1216/1216649.svg?token=exp=1615830345~hmac=5d6e450053ac826cdd3490d78f938ad6" width=10px>   love to connect!
 
 </p>
