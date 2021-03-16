@@ -10,6 +10,6 @@
 <!--About me--->
 
 <h2>📬 Reach Me Out !</h2>
-![gmail](https://img.icons8.com/color/48/000000/gmail--v2.png)
+![gmail]("https://img.icons8.com/color/48/000000/gmail--v2.png")
 <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width=35/>
 <img src="https://img.icons8.com/nolan/64/github.png" width=35/>
