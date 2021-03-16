@@ -1,5 +1,11 @@
 <!---HEADER--->
+<span align="right">
+
+## People Visiting Me ![](https://komarev.com/ghpvc/?username=Abilashjoel)<br/>
+
+</span>
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img src="https://media.giphy.com/media/Lpnun3kJinrVRGmi8a/giphy.gif" width=100>  World!, I'm <a href="https://github.com/Abilashjoel" style="color:#42f5aa">Abilash</a> <img src="https://learncodeonline.in/mascot.png" width="45px"></h1>
+
 <!---HEADER--->
 
 <!--About me--->
@@ -27,10 +33,11 @@
 <a href="https://github.com/abilashjoel"> <img src="https://img.icons8.com/nolan/64/github.png" width=35/> </a>
 &nbsp;
 &nbsp;
-<img src="https://img.icons8.com/fluent/48/000000/twitter.png" width=35/>
+<img src="https://img.icons8.com/fluent/48/000000/twitter.png" width=28/>
 
 </span>
-
+<br>
+<br>
 <h2>  🛠 My Tech Stack </h2>
 <span> 
 &nbsp;
@@ -60,10 +67,16 @@
 &nbsp;
 &nbsp;
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"  width=35/>
+&nbsp;
+&nbsp;
+<img src="https://img.icons8.com/officel/16/000000/react.png" width=35/>
+ &nbsp;
+ &nbsp;
+ <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width=35/>
  
 </span>
 
-
+<br>
 <details>
 
   <Summary> More About Me </Summary>
@@ -93,6 +106,10 @@
 
 </div>
 
+<span align="right">
+
 ## People Visiting Me ![](https://komarev.com/ghpvc/?username=Abilashjoel)<br/>
+
+</span>
 
 
