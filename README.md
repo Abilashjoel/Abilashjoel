@@ -61,9 +61,13 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"  width=35/>
   
 </span>
+&nbsp;
+&nbsp;
 
 <details>
   <Summary> More About Me </Summary>
+  &nbsp;
+  &nbsp;
   <p>👨💻 Currently working, learning and growing my skillset in MERN and Flutter</p>
   <p>🤝 Open for collaborations in web development 🕸️</p>
   <p>💻 I love exploring new tech stack and building cool stuffs</p>
