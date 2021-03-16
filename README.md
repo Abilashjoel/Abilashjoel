@@ -64,6 +64,9 @@
 
 <details>
   <Summary> More About Me </Summary>
+  👨💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
+- 🤝 Open for collaborations in web development 🕸️
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs
   
   
   
