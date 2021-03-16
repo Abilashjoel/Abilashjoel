@@ -63,7 +63,7 @@
 </span>
 
 <details>
-  <Summary>More About Me </Summary> 
+  <H2> <Summary>More About Me </Summary></h2> 
   
   
   
