@@ -30,7 +30,14 @@
 </span>
 
 <h2> My Tech Stack </h2>
-<span> <img src="https://img.icons8.com/color/48/000000/python.png" width=35/>
+<span> 
+&nbsp;
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/python.png" width=35/>
+&nbsp;
+&nbsp;
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width=35/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"  width=35/>
+&nbsp;
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"  width=35/>
 </span>
