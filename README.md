@@ -10,8 +10,7 @@
 <!--About me--->
 
 <h2>📬 Reach Me Out !</h2>
-&nbsp;
-&nbsp;
+
 <img src="https://img.icons8.com/color/48/000000/gmail--v2.png" width=35/>
 &nbsp;
 &nbsp;
