@@ -1,7 +1,9 @@
 <!---HEADER--->
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img src="https://media.giphy.com/media/Lpnun3kJinrVRGmi8a/giphy.gif" width=100>  World!, I'm <a href="https://github.com/Abilashjoel"><span style="color:#42f5aa">Abilash</span></a> <img src="https://learncodeonline.in/mascot.png" width="45px"></h1>
 <!---HEADER--->
-<hr>
+
+<img src="https://media.giphy.com/media/hpWYUVOg8aR3ZifSeD/giphy.gif" width=100% height=100>
+
 
 
 <H2>About Me </H2>
