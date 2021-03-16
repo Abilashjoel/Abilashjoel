@@ -64,9 +64,9 @@
 
 
 <details>
-&nbsp;
-&nbsp;
-  <Summary> More About Me </Summary>
+
+  <Summary> &nbsp;
+&nbsp;More About Me </Summary>
   &nbsp;
   &nbsp;
   <p>👨💻 Currently working, learning and growing my skillset in MERN and Flutter</p>
