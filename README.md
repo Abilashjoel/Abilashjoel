@@ -30,7 +30,7 @@
 
 </span>
 
-<h2> My Tech Stack </h2>
+<h2>  🛠 My Tech Stack </h2>
 <span> 
 &nbsp;
 &nbsp;
