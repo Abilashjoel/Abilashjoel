@@ -59,10 +59,10 @@
 &nbsp;
 &nbsp;
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"  width=35/>
-  
+&nbsp;
+&nbsp; 
 </span>
-&nbsp;
-&nbsp;
+
 
 <details>
   <Summary> More About Me </Summary>
