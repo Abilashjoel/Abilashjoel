@@ -65,14 +65,14 @@
 
 <details>
 
-  <Summary> &nbsp;
-&nbsp;More About Me </Summary>
+  <Summary> More About Me </Summary>
   &nbsp;
   &nbsp;
   <p>👨💻 Currently working, learning and growing my skillset in MERN and Flutter</p>
   <p>🤝 Open for collaborations in web development 🕸️</p>
   <p>💻 I love exploring new tech stack and building cool stuffs</p>
   <p> 🏏 I love to Play, Watch & Talk about Cricket </p>
+  <p> 🥅 2021 Goals: Being Fluent in React </p>
   
   
   
