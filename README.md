@@ -4,7 +4,7 @@
 
 <!--About me--->
 
-<H2>About Me </H2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
+<span><H2>About Me </H2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> </span>
 <p>Welcome to my profile! I'm a student interning @ <B STYLE="COLOR:RED">B/S/H</B> (Bosch and Siemens Hausgeräte GmbH), an aspiring MERN stack developer. Currently learning on it. I’m passionate about learning new technologies. Thanks for visiting and I'd  love to connect! </p>
 
 <!--About me--->
