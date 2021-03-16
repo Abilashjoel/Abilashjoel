@@ -10,4 +10,16 @@
 <!--About me--->
 
 <h2>📬 Reach Me Out !</h2>
-<span><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width=35></img><img src="https://img.icons8.com/nolan/64/github.png" width=35/></span>
+<span>
+&nbsp;
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/gmail--v2.png" width=35/>
+&nbsp;
+&nbsp;
+<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width=35/>
+&nbsp;
+&nbsp;
+<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width=35/>
+&nbsp;
+&nbsp;
+<img src="https://img.icons8.com/nolan/64/github.png" width=35/></span>
