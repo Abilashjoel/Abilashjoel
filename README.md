@@ -66,7 +66,7 @@
 <details>
 
   <Summary> More About Me </Summary>
-  https://media.giphy.com/media/mGasM06BJXWs7KLubN/giphy.gif
+  <img src="https://media.giphy.com/media/mGasM06BJXWs7KLubN/giphy.gif" align=right width=250px height=250px></img>
   &nbsp;
   &nbsp;
   <p>👨💻 Currently working, learning and growing my skillset in MERN and Flutter</p>
