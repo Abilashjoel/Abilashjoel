@@ -27,6 +27,9 @@
 &nbsp;
 &nbsp;
 <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width=35/>
+&nbsp;
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/flutter.png" width=35/>
 </span>
 
 <h2> My Tech Stack </h2>
