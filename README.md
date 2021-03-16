@@ -10,7 +10,6 @@
 <!--About me--->
 
 &nbsp;
-&nbsp;
 <h2>📬 Reach Me Out !</h2>
 <span>
 &nbsp;
