@@ -13,7 +13,7 @@
 <span>
 &nbsp;
 &nbsp;
-<img src="https://img.icons8.com/color/48/000000/gmail--v2.png" width=35/>
+<a href="mailto:abilashabilash009@gmail.com.com"><img src="https://img.icons8.com/color/48/000000/gmail--v2.png" width=35/></a>
 &nbsp;
 &nbsp;
 <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width=35/>
