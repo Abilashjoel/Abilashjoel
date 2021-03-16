@@ -1,5 +1,5 @@
 <!---HEADER--->
-<span align="right">
+<span align="right" width="20">
 
 ## People Visiting Me ![](https://komarev.com/ghpvc/?username=Abilashjoel)<br/>
 
@@ -106,10 +106,5 @@
 
 </div>
 
-<span align="right">
-
-## People Visiting Me ![](https://komarev.com/ghpvc/?username=Abilashjoel)<br/>
-
-</span>
 
 
