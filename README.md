@@ -44,4 +44,10 @@
 &nbsp;
 &nbsp;
 <img src="https://img.icons8.com/color/48/000000/flutter.png" width=35/>
+&nbsp;
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/css3.png" width=35/>
+&nbsp;
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/sass.png" width=35/>
 </span>
