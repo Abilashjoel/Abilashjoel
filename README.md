@@ -16,7 +16,7 @@
 <a href="mailto:abilashabilash009@gmail.com.com"><img src="https://img.icons8.com/color/48/000000/gmail--v2.png"  alt="Gmail" width=35/></a>
 &nbsp;
 &nbsp;
-<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width=35/>
+<a href="https://www.linkedin.com/in/abilash-kjm-7064b7148/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width=35/> </a>
 &nbsp;
 &nbsp;
 <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width=35/>
