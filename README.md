@@ -10,5 +10,4 @@
 <!--About me--->
 
 <h2>📬 Reach Me Out !</h2>
-<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width=35></img>
-<img src="https://img.icons8.com/nolan/64/github.png" width=35/>
+<span><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width=35></img><img src="https://img.icons8.com/nolan/64/github.png" width=35/></span>
