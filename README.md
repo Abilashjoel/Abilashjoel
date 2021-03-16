@@ -53,4 +53,11 @@
 &nbsp;
 &nbsp;
 <img src="https://img.icons8.com/color/48/000000/sass.png" width=35/>
+&nbsp;
+&nbsp;
+<img src="https://img.icons8.com/color/32/000000/nodejs.png"  width=35//>
+&nbsp;
+&nbsp;
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"  width=35/>
+  
 </span>
