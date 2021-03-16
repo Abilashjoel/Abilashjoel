@@ -64,9 +64,11 @@
 
 <details>
   <Summary> More About Me </Summary>
-  👨💻 Currently working, learning and growing my skillset in MERN and Flutter
+  <p>👨💻 Currently working, learning and growing my skillset in MERN and Flutter</p>
   <p>🤝 Open for collaborations in web development 🕸️</p>
-  <p>💻 &nbsp; I love exploring new tech stack and building cool stuffs</p>
+  <p>💻 I love exploring new tech stack and building cool stuffs</p>
+  <p> 🏏 I love to Play, Watch & Talk about Cricket </p>
+  
   
   
   
