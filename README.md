@@ -74,7 +74,8 @@
   <p> 🏏 I love to Play, Watch & Talk about Cricket </p>
   <p> 🥅 2021 Goals: Being Fluent in React </p>
   
-  
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abilashjoel&show_icons=true&theme=dark" width=420/> <br/><br/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran-surya&layout=compact&theme=dark&hide=css">
   
   
 </details>
